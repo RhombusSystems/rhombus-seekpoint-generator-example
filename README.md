@@ -143,7 +143,7 @@ This example can be automated using:
 ## Support
 
 For questions about the Rhombus API, please refer to:
-- [Rhombus API Documentation](https://apidocs.rhombussystems.com)
+- [Rhombus API Documentation](https://developer.rhombus.com/)
 - [Rhombus Support](https://support.rhombussystems.com)
 
 ## License
